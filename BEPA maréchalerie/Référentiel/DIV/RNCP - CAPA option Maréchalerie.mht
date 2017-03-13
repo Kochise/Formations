@@ -1,0 +1,1632 @@
+Content-Type: multipart/related; start=<op.mhtml.1227695955937.189655465726e7f3@10.24.6.140>; boundary=----------tHbT8qkXn9TmYUGlJyCl6h
+Content-Location: http://www.cncp.gouv.fr/CNCP/fiche_gp.php?idfiche=2761
+Subject: =?utf-8?Q?Le=20R=C3=A9pertoire=20National=20des=20Certifications=20Professionnelles=20(RNCP)?=
+MIME-Version: 1.0
+
+------------tHbT8qkXn9TmYUGlJyCl6h
+Content-Disposition: inline; filename=fiche_gp.htm
+Content-Type: text/html; name=fiche_gp.htm
+Content-Id: <op.mhtml.1227695955937.189655465726e7f3@10.24.6.140>
+Content-Location: http://www.cncp.gouv.fr/CNCP/fiche_gp.php?idfiche=2761
+Content-Transfer-Encoding: Quoted-Printable
+
+
+<html>
+	<head>
+		<title>Le R&eacute;pertoire National des Certifications Professionnell=
+es (RNCP)</title>
+		<style>body {
+	background: url(images/bg_personnages.gif);
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	FONT-SIZE: 90%;
+	margin: 0px 0px 0px 0px;
+}
+.note
+{
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	FONT-SIZE: 77%; =
+
+	COLOR: #113937; =
+
+}
+td
+{
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	FONT-SIZE: 100%;
+}
+.li-done
+{
+	list-style-image : url(images/done.gif);
+}
+
+.li-to-do
+{
+	list-style-image : url(images/to-do.gif);
+}
+
+.li-in-progress
+{
+	list-style-image : url(images/in-progress.gif);
+}
+.li-no-bullet
+{
+	list-style-image : url(images/vide.gif);
+}
+
+.msg-entete
+{
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	FONT-SIZE: 90%; =
+
+	color: white;
+	background : #1D615E;
+	border : 2px outset black;
+	font-style : italic;
+	text-align : left;
+}
+.msg-entete-cache
+{
+	border : 1px solid Black;
+	background : #298A86;
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	FONT-SIZE: 90%; =
+
+	text-align : left;
+	font-style : italic;
+	color : Silver;
+}
+span.msg-forum
+{
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	FONT-SIZE: 105%; =
+
+	color: black;
+	background : transparent;
+	text-align : left;
+	width: 90%;
+}
+
+td.msg-contenu
+{
+	border : 1px solid #008B8B;
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	FONT-SIZE: 105%; =
+
+	text-align : left;
+	background-color : #FFFFF0;
+	color : black;
+	padding: 2px 5px 2px 5px;
+}
+td.msg-corps
+{
+	border : 2px inset;
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	FONT-SIZE: 90%; =
+
+	text-align : left;
+	background-color : #FFFFF0;
+	color : black;
+}
+td.msg-corps-cache
+{
+	border : 2px inset;
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	FONT-SIZE: 90%; =
+
+	text-align : left;
+	background-color : #FFFFF6;
+	color : Silver;
+	font-style : italic;
+}
+td.sujet =
+
+{
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	FONT-SIZE: 105%; =
+
+	color: white;
+	background : #099;
+	font-style : italic;
+	text-align : left;
+}
+span.sujet =
+
+{
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	FONT-SIZE: 105%; =
+
+	color: white;
+	background : #1D615E;
+	font-style : italic;
+	text-align : left;
+	width: 90%;
+	border: 1px solid White;
+}
+a.sujet =
+
+{
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	FONT-SIZE: 105%; =
+
+	color: white;
+	background : #1D615E;
+	font-style : italic;
+	text-align : left;
+}
+a.sujet:visited =
+
+{
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	FONT-SIZE: 105%; =
+
+	color: white;
+	background : #1D615E;
+	font-style : italic;
+	text-align : left;
+}
+a.sujet:hover =
+
+{
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	FONT-SIZE: 105%; =
+
+	color: white;
+	background : #1D615E;
+	font-style : italic;
+	text-align : left;
+}
+span.msg-contenu
+{
+	border : 1px solid Black;
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	FONT-SIZE: 102%; =
+
+	text-align : left;
+	background-color : #FFFFF0;
+	color : black;
+}
+td.reponse
+{
+	border : 1px solid #FEFF0D;
+	background-color : #FFFFEA;
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	FONT-SIZE: 90%; =
+
+	text-align : left;
+}
+.petit-btn
+{
+	border : 1px solid #113937;
+}
+.petitBtn
+{
+	border : 1px solid black;
+}
+.btn
+{
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	font-size: 70%; =
+
+	color: Gray;
+	background : #EDEDED;
+	border : 1px solid gray;
+	text-align : left;
+	font-weight : normal;
+	padding-left : 2px;
+	padding-right : 2px;
+	margin-right: 5px;
+	line-height: 17px;
+}
+a.btn
+{
+	color: #099;
+	font-size: 74%; =
+
+	font-weight : normal;
+}
+a.btn:visited
+{
+	color: #099;
+	font-size: 74%; =
+
+	font-weight : normal;
+}
+a.btn:hover
+{
+	color: #099;
+	font-size: 74%; =
+
+	font-weight : normal;
+}
+
+/* JCO : lientri est pour les en tetes de liste triable (ListTable)
+*/
+
+a.lientri
+{
+	color: white;
+	font-size: 100%; =
+
+	TEXT-DECORATION: underline;
+	font-weight : bold;
+}
+a.lientri:visited{font-size: 100%;}
+a.lientri:hover{font-size: 100%;}
+
+.th-border =
+
+{
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	font-size: 90%; =
+
+	color: white;
+	background : #1D615E;
+	border : 2px outset black;
+	font-style : italic;
+	text-align : left;
+}
+
+a.th-border, a.th-border:visited
+{
+	font-size: 100%; =
+
+	color: #BFFEFF; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	font-weight: bold;
+	TEXT-DECORATION: none;
+}
+a.th-border:hover
+{
+	font-size: 100%; =
+
+	color: #BFFEFF; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+	font-weight: bold;
+	TEXT-DECORATION: underline;
+}
+.td-border =
+
+{
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	font-size: 90%; =
+
+	border : 1px solid black;
+	text-align : left;
+}
+
+.encadre =
+
+{
+	border : 2px solid #113937;
+}
+.table-border =
+
+{
+	border : 2px solid black;
+}
+textarea =
+
+{
+	FONT-WEIGHT: normal; =
+
+	font-size: 90%; =
+
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+}
+.body2
+{
+	PADDING-RIGHT: 0%; =
+
+	PADDING-LEFT: 0%; =
+
+	BACKGROUND-IMAGE: url(images/vide.gif); =
+
+	PADDING-BOTTOM: 0%; =
+
+	MARGIN: 0%; =
+
+	COLOR: #103831; =
+
+	PADDING-TOP: 0%; =
+
+	BACKGROUND-COLOR: #ffffff;
+}
+label
+{
+	font-size: 90%; =
+
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+}
+fieldset
+{
+	COLOR: #1F6C5F;
+	border: 2px ridge #1F6C5F;
+	background-color: #FFFFF0;
+}
+input
+{
+	FONT-WEIGHT: normal; =
+
+	font-size: 90%; =
+
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+}
+select
+{
+	FONT-WEIGHT: normal; =
+
+	font-size: 90%;
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+}
+h1
+{
+	FONT-WEIGHT: bold; =
+
+	font-size: 110%; =
+
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+	TEXT-ALIGN: center;
+}
+h6
+{
+	font-size: 90%; =
+
+}
+.h1 =
+
+{
+	FONT-WEIGHT: bold; =
+
+	font-size: 110%; =
+
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+	TEXT-ALIGN: left;
+}
+.h5 =
+
+{
+	FONT-WEIGHT: normal; =
+
+	font-size: 100%; =
+
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+}
+h2
+{
+	FONT-WEIGHT: bold; =
+
+	font-size: 120%; =
+
+	COLOR: #6b0000; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+}
+h3 =
+
+{
+	FONT-WEIGHT: bold; =
+
+	font-size: 115%; =
+
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+}
+h4 =
+
+{
+	FONT-WEIGHT: bold;
+	font-size: 100%; =
+
+	COLOR: #6b0000;
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+}
+h5 {
+	FONT-WEIGHT: normal; =
+
+	font-size: 100%; =
+
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+}
+a =
+
+{
+	FONT-WEIGHT: bold; =
+
+	font-size: 90%; =
+
+	MARGIN-LEFT: 0px; =
+
+	COLOR: #099; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+	TEXT-DECORATION: none;
+}
+a:visited =
+
+{
+	FONT-WEIGHT: bold; =
+
+	font-size: 90%; =
+
+	MARGIN-LEFT: 0px; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+	TEXT-DECORATION: none;
+}
+a:hover =
+
+{
+	TEXT-DECORATION: underline;
+	font-size: 90%; =
+
+}
+.tricol =
+
+{
+	FONT-WEIGHT: bold; =
+
+	font-size: 100%; =
+
+	COLOR: #6b0000; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+	TEXT-DECORATION: underline;
+}
+.tricol:visited =
+
+{
+	FONT-WEIGHT: bold; =
+
+	font-size: 100%; =
+
+	COLOR: #6b0000; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+	TEXT-DECORATION: underline;
+}
+.tricol:hover =
+
+{
+	FONT-WEIGHT: bold; =
+
+	font-size: 100%; =
+
+	COLOR: #6b0000; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+	TEXT-DECORATION: underline;
+}
+.nc =
+
+{
+	COLOR: #103831; =
+
+	TEXT-DECORATION: none;
+}
+.texte
+{
+	FONT-WEIGHT: normal; =
+
+	font-size: 90%; =
+
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+}
+.texte2
+{
+	FONT-WEIGHT: normal; =
+
+	font-size: 50%; =
+
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+}
+.texte3
+{
+	font-size: 90%; =
+
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+}
+.texte3r {
+	FONT-WEIGHT: normal; =
+
+	font-size: 90%; =
+
+	COLOR: #6b0000; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+}
+.ligne {
+	BORDER-TOP-WIDTH: 2pt; =
+
+	FONT-WEIGHT: normal; =
+
+	BORDER-LEFT-WIDTH: 2pt; =
+
+	font-size: 100%; =
+
+	BORDER-BOTTOM-WIDTH: 2pt; =
+
+	COLOR: #000000; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+	BORDER-RIGHT-WIDTH: 2pt;
+}
+.entete {
+	FONT-WEIGHT: bold; =
+
+	font-size: 90%; =
+
+	COLOR: #ffffff; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+	BACKGROUND-COLOR: #113937;
+}
+
+.entete-autre {
+	FONT-WEIGHT: bold; =
+
+	font-size: 90%; =
+
+	COLOR: black; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+	BACKGROUND-COLOR: White;
+	border-color : #113937;
+	border-style : solid;
+	border-width : 2px;
+}
+
+.A-entete-autre,.A-entete-autre:hover, .A-entete-autre:visited
+{
+	FONT-WEIGHT: bold; =
+
+	font-size: 90%; =
+
+	COLOR: #113937; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+}
+
+/* M178 Phase3 TVY le 25/11/2004 Rajout de styles pour fiche GP
+*/
+.trud1gp {
+	FONT-WEIGHT: normal; =
+
+	font-size: 110%; =
+
+	COLOR: #113937; =
+
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+.trud2gp {
+	FONT-WEIGHT: normal; =
+
+	font-size: 90%; =
+
+	COLOR: #113937; =
+
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+
+
+.textegp
+{
+	FONT-WEIGHT: normal; =
+
+	font-size: 80%; =
+
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+}
+
+.texte3gp
+{
+	font-size: 80%; =
+
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+}
+
+.entetegp {
+	FONT-WEIGHT: bold; =
+
+	font-size: 75%; =
+
+	COLOR: #ffffff; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+	BACKGROUND-COLOR: #113937;
+}
+
+.titresectiongp {
+	FONT-WEIGHT: normal; =
+
+/* M00245 TVY Taille de caract=E8res non homog=E8ne
+/*	font-size: 90%; =
+
+*/
+	font-size: 100%;
+/*FIN M00245 TVY
+*/
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+	TEXT-DECORATION: underline;
+}
+
+/*FIN M178 TVY
+*/
+.trud1 {
+	FONT-WEIGHT: normal; =
+
+	font-size: 125%; =
+
+	COLOR: #113937; =
+
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+.trud2 {
+	FONT-WEIGHT: normal; =
+
+	font-size: 100%; =
+
+	COLOR: #113937; =
+
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+.acmemb {
+	FONT-WEIGHT: bold; =
+
+	font-size: 100%; =
+
+	COLOR: #6b0000; =
+
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+.trub2 {
+	FONT-WEIGHT: bold;
+	font-size: 90%; =
+
+	COLOR: #000000; =
+
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+.trub3 {
+	FONT-WEIGHT: bold; =
+
+	font-size: 85%; =
+
+	COLOR: #000000; =
+
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+a.trub3:visited{font-size: 85%;}
+a.trub3:hover{font-size: 85%;}
+
+.titre {
+	FONT-WEIGHT: bold; =
+
+	font-size: 100%; =
+
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+	BACKGROUND-COLOR: transparent; =
+
+	TEXT-ALIGN: center;
+}
+.fauxinput {
+	BORDER-RIGHT: black 1px outset; =
+
+	BORDER-LEFT: black 1px outset; =
+
+	BORDER-TOP: black 1px outset; =
+
+	BORDER-BOTTOM: black 1px outset; =
+
+	font-size: 90%; =
+
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+	BACKGROUND-COLOR: white;
+}
+.fauxtextarea {
+	BORDER-RIGHT: black 1px outset; =
+
+	BORDER-LEFT: black 1px outset; =
+
+	BORDER-TOP: black 1px outset; =
+
+	BORDER-BOTTOM: black 1px outset; =
+
+	font-size: 90%; =
+
+	MARGIN: 0px; =
+
+	WIDTH: 520px; =
+
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+	BACKGROUND-COLOR: white;
+}
+.fauxtextarea2 {
+	BORDER-RIGHT: black 1px outset; =
+
+	BORDER-LEFT: black 1px outset; =
+
+	BORDER-TOP: black 1px outset; =
+
+	BORDER-BOTTOM: black 1px outset; =
+
+	font-size: 90%; =
+
+	MARGIN: 0px; =
+
+	WIDTH: 460px; =
+
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+	BACKGROUND-COLOR: white;
+}
+.fauxtextarea3 {
+	BORDER-RIGHT: black 1px outset; =
+
+	BORDER-LEFT: black 1px outset; =
+
+	BORDER-TOP: black 1px outset; =
+
+	BORDER-BOTTOM: black 1px outset; =
+
+	font-size: 90%; =
+
+	MARGIN: 0px; =
+
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+	BACKGROUND-COLOR: white;
+}
+.fauxinputid {
+	BORDER-RIGHT: black 1px outset; =
+
+	BORDER-LEFT: black 1px outset; =
+
+	BORDER-TOP: black 1px outset; =
+
+	BORDER-BOTTOM: black 1px outset; =
+
+	font-size: 90%; =
+
+	MARGIN: 0px; =
+
+	WIDTH: 75px; =
+
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+	HEIGHT: 9pt; =
+
+	BACKGROUND-COLOR: white;
+}
+.fauxinputtel {
+	BORDER-RIGHT: black 1px outset; =
+
+	BORDER-LEFT: black 1px outset; =
+
+	BORDER-TOP: black 1px outset; =
+
+	BORDER-BOTTOM: black 1px outset; =
+
+	font-size: 90%; =
+
+	MARGIN: 0px; =
+
+	WIDTH: 100px; =
+
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+	HEIGHT: 9pt; =
+
+	BACKGROUND-COLOR: white;
+}
+.fauxinputlib {
+	BORDER-RIGHT: black 1px outset;
+	BORDER-LEFT: black 1px outset;
+	BORDER-TOP: black 1px outset;
+	BORDER-BOTTOM: black 1px outset;
+	font-size: 90%; =
+
+	MARGIN: 0px;
+	WIDTH: 520px; COLOR: #103831;
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	HEIGHT: 9pt; =
+
+	BACKGROUND-COLOR: white;
+}
+.int-contact {
+	FONT-WEIGHT: bold; =
+
+	font-size: 100%; =
+
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+}
+.int-tab {
+	FONT-WEIGHT: normal; =
+
+	font-size: 100%; =
+
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+}
+.titresection {
+	FONT-WEIGHT: normal; =
+
+	font-size: 90%; =
+
+	COLOR: #103831; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+	TEXT-DECORATION: underline;
+}
+
+.error
+{
+	border : 1px solid red;
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	font-size: 90%; =
+
+	text-align : left;
+	background-color : transparent;
+	color : red;
+	padding: 2px 5px 2px 5px;
+}
+.msg-error
+{
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	font-size: 90%; =
+
+	text-align : left;
+	color : red;
+	font-weight: bold;
+}
+.msg-warning
+{
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	font-size: 90%; =
+
+	text-align : left;
+	color : #FF7F50;
+	font-weight: bold;
+}
+.msg-infos
+{
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	font-size: 90%; =
+
+	text-align : left;
+	color : #2DB72E;
+	font-weight: bold;
+}
+td.doc-contenu
+{
+	border : 1px solid #008B8B;
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	font-size: 90%; =
+
+	text-align : left;
+	background-color : #FFFFF0;
+	color: black; =
+
+	padding: 2px 5px 2px 5px;
+}
+a.explorer, a.explorer:visited
+{
+	font-size: 90%; =
+
+	color: #099; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	font-weight: bold;
+}
+a.explorer:hover
+{
+	font-size: 90%; =
+
+	color: #099; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+	font-weight: bold;
+}
+
+a.explorer-sel, a.explorer-sel:visited
+{
+	font-size: 90%; =
+
+	color: White; =
+
+	background: #1D615E;
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	font-weight: bold;
+}
+
+a.explorer-sel:hover
+{
+	font-size: 90%; =
+
+	color: White; =
+
+	background: #1D615E;
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+	font-weight: bold;
+}
+
+td.cadre-explorer
+{
+	border : 2px inset;
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	font-size: 90%; =
+
+	text-align : left;
+	background-color : white;
+	color : black;
+	padding: 5px 5px 5px 5px;
+}
+.rub2 {  =
+
+font-family: Arial, Helvetica, sans-serif; =
+
+font-size: 90%; =
+
+font-weight: normal; =
+
+text-align: right; =
+
+color: #113937
+}
+.rub2:visited {
+	FONT-WEIGHT: normal; =
+
+	font-size: 90%; =
+
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; =
+
+	TEXT-DECORATION: none;
+}
+.rub2:hover {
+	TEXT-DECORATION: underline;
+	font-size: 90%; =
+
+}
+
+.ombre-gauche
+{
+	background-image : url(images/bg_ombre_g.gif);
+	width: 10px;
+}
+.ombre-droite
+{
+	background-image : url(images/bg_ombre_d.gif);
+	width: 14px;
+}
+.fond-onglet
+{
+	background-image : url(images/onglets/fond_onglet.gif);
+}
+.warning {
+color: red; =
+
+font-style: italic;
+font-weight: bold;
+font-family: arial, verdana, tahoma, sans-serif; =
+
+font-size: 85%; =
+
+}
+
+.img-flag {
+border : 1px solid Black; =
+
+}
+td.entete-grille
+{
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	font-size: 90%; =
+
+	text-align : center;
+	background-color : #FFFFF0;
+	color: black; =
+
+	vertical-align: bottom;
+}
+td.grille-OK
+{
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	font-size: 90%; =
+
+	text-align : center;
+	background-color : #98FB98;
+	color: black; =
+
+	vertical-align: bottom;
+}
+td.grille-KO
+{
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	font-size: 90%; =
+
+	text-align : center;
+	background-color : #FF9886;
+	color: black; =
+
+	vertical-align: bottom;
+}
+
+		</style>
+	</head>
+	<body>
+	<div align=3D"center">
+	<table cellpadding=3D0 cellspacing=3D0 border=3D0 width=3D580>
+		<tr>
+			<td align=3D'left'>
+				<span class=3D'trud1gp'>Le R&eacute;pertoire National des Certificat=
+ions Professionnelles (RNCP)</span><br>
+				<span class=3D'trud2gp'>R&eacute;sum&eacute; descriptif de la certif=
+ication</span></td>	=
+
+			<td align=3Dright><span class=3D'trub2'><a href=3D"javascript:window.=
+print();" title=3D"Imprimer">Imprimer</a></span>
+			</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan=3D2>
+				<table cellpadding=3D'3' cellspacing=3D"0" border=3D"0">
+					<tr>
+						<td class=3D'entetegp'>&nbsp;Intitul&eacute;</td>
+					</tr>
+				</table>
+			</td>	=
+
+		</tr>
+		<tr>
+			<td colspan=3D2>
+				<table border=3D1 bordercolor=3D'#113937' cellpadding=3D0 cellspacin=
+g=3D0 width=3D580>
+					<tr>
+						<td class=3D'textegp'>
+							<table border=3D0 bordercolor=3D'#113937' rules=3D"none" cellpadd=
+ing=3D5 cellspacing=3D0 width=3D580>
+								<tr>
+									<td class=3D'texte3gp' valign=3D"top" colspan=3D5>
+<table border=3D'0' cellpadding=3D'5' cellspacing=3D'0'><tr valign=3D'to=
+p'><td class=3D'textegp'>CAPA : Certificat d'aptitude professionnelle ag=
+ricole option Mar=E9chalerie</td></tr></table>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr><td colspan=3D"2">&nbsp;</td></tr>
+		<tr>
+			<td colspan=3D2 width=3D"580">
+				<table cellpadding=3D'3' cellspacing=3D"0" border=3D"0" width=3D"580=
+">
+					<tr valign=3D'top'>
+						<td class=3D'entetegp' width=3D290>&nbsp;Autorit&eacute; responsab=
+le de la certification&nbsp;</td>
+						<td class=3D'entetegp' width=3D290>&nbsp;Qualit&eacute; du(es) sig=
+nataire(s) de la certification&nbsp;</td>
+					</tr>
+				</table>
+			</td>	=
+
+		</tr>
+		<tr>
+			<td colspan=3D2>
+				<table border=3D1 bordercolor=3D'#113937' cellpadding=3D5 cellspacin=
+g=3D0 width=3D"580">
+					<tr>
+						<td class=3D'texte3gp' valign=3D"top" width=3D290>- MINISTERE CHAR=
+GE DE L'AGRICULTURE&nbsp;<br><span class=3D"titresectiongp">Modalit&eacu=
+te;s d'&eacute;laboration des r&eacute;f&eacute;rences</span> :<br>Commi=
+ssion professionnelle consultative du minist=E8re charg=E9 de l'agricult=
+ure
+						</td>
+						<td class=3D'texte3gp' valign=3D"top" width=3D290 >- Directeur r=E9=
+gional de l'agriculture et de la for=EAt<BR>
+						&nbsp;</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr><td colspan=3D"2">&nbsp;</td></tr>
+		<tr>
+			<td colspan=3D'2' width=3D"580">
+				<table cellpadding=3D'3' cellspacing=3D"0" border=3D"0">
+					<tr>
+						<td class=3D'entetegp'>&nbsp;Niveau et/ou domaine d'activit&eacute=
+;&nbsp;</td>
+					</tr>
+				</table>
+			</td>	=
+
+		</tr>
+		<tr>
+			<td colspan=3D2 width=3D"580">
+				<table border=3D1 bordercolor=3D'#113937' cellpadding=3D5 cellspacin=
+g=3D0 width=3D"100%">
+					<tr>
+						<td class=3D'texte3gp' valign=3D"top" width=3D"100%">V&nbsp;(Nomen=
+clature de  1967)
+						</td>
+					</tr> =
+
+					<tr>		=
+
+						<td colspan=3D2 width=3D"580">
+							<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D"100%">=
+
+								<tr>
+									<td valign=3D"top" colspan=3D"5" width=3D"100%"><span class=3D"=
+texte3gp"><u>Code NSF</u>: <br><table cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0" width=3D"100%"><tr valign=3Dtop><td class=3D'texte3gp' wi=
+dth=3D15>212 </td><td>&nbsp;</td><td class=3D'texte3gp'>Productions anim=
+ales, =E9levage sp=E9cialis=E9, aquaculture, soins aux animaux (y.c. v=E9=
+t=E9rinaire)</td></tr></table></span></td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr><td colspan=3D"2">&nbsp;</td></tr>
+		<tr>
+			<td colspan=3D2>
+				<table cellpadding=3D'3' cellspacing=3D"0" border=3D"0">
+					<tr>
+						<td class=3D'entetegp'>&nbsp;R&eacute;sum&eacute; du r&eacute;f&ea=
+cute;rentiel d'emploi ou &eacute;l&eacute;ments de comp&eacute;tence acq=
+uis&nbsp;</td>
+					</tr>
+				</table>
+			</td>	=
+
+		</tr>
+		<tr>
+			<td colspan=3D2>
+				<table border=3D1 bordercolor=3D'#113937' cellpadding=3D0 cellspacin=
+g=3D0 width=3D580>
+					<tr>
+						<td class=3D'textegp'>
+							<table border=3D0 bordercolor=3D'#113937' rules=3Dnone cellpaddin=
+g=3D5 cellspacing=3D0 width=3D580>
+								<tr>
+									<td colspan=3D"5">
+										<table border=3D0 cellpadding=3D5 cellspacing=3D0>
+											<tr><td class=3D'texte3gp' valign=3D"top" colspan=3D"5">* Act=
+ivit=E9s vis=E9es :<br />
+Le mar=E9chal-ferrant qualifi=E9 met en =9Cuvre les diff=E9rentes techni=
+ques li=E9es =E0 l=92exercice de son m=E9tier :<br />
+- devant le cheval =E0 ferrer,<br />
+- devant un pied et des aplombs normaux,<br />
+- devant un pied ou un membre n=E9cessitant des soins orthop=E9diques,<b=
+r />
+- devant un pied souffrant d=92une maladie se r=E9percutant sur la bo=EE=
+te corn=E9e,<br />
+- apr=E8s des accidents ou des interventions chirurgicales ayant n=E9ces=
+sit=E9 la mise en place de ferrures orthop=E9diques.<br />
+Le mar=E9chal-ferrant qualifi=E9 et les autres interventions :<br />
+- de la m=EAme fa=E7on que pour le cheval, il peut =EAtre amen=E9 =E0 in=
+tervenir sur le pied des bovid=E9s et autres ongul=E9s,<br />
+- il pourra assurer, dans certains cas, des op=E9rations de toilettage,<=
+br />
+- dans le cadre fix=E9 par la loi, il assure les soins de premi=E8re urg=
+ence ; de la m=EAme mani=E8re, il pourra =EAtre amen=E9 =E0 intervenir p=
+our maintenir les capacit=E9s masticatoires du cheval.<br />
+Il s=92initie =E0 l=92organisation et =E0 la gestion de l=92entreprise a=
+rtisanale et participe aux activit=E9s de la vie professionnelle et soci=
+ale.</td></tr>
+										</table>
+									</td>
+								</tr>
+								<tr>
+									<td colspan=3D"5">
+										<table border=3D0 cellpadding=3D5 cellspacing=3D0>
+											<tr><td class=3D'texte3gp' valign=3D"top" colspan=3D"5">* Cap=
+acit=E9s attest=E9es :<br />
+Capacit=E9s communes :<br />
+=96 S=92exprimer et communiquer par oral et par =E9crit dans des situati=
+ons de la vie professionnelle et sociale<br />
+=96 Mobiliser des connaissances math=E9matiques, des m=E9thodes de raiso=
+nnement afin de r=E9soudre des probl=E8mes issus de situations professio=
+nnelles ou issus de la vie courante<br />
+=96 Pratiquer des activit=E9s physiques et sportives dans une optique de=
+ sant=E9, de s=E9curit=E9 et d=92insertion professionnelle et sociale<br=
+ />
+=96 A partir des diff=E9rentes approches de l=92environnement social, pr=
+endre conscience des droits, des devoirs et responsabilit=E9s du citoyen=
+<br />
+Capacit=E9s professionnelles :<br />
+=96 Se situer en tant qu=92ouvrier qualifi=E9 en mar=E9chalerie dans une=
+ entreprise artisanale de mar=E9chalerie ou dans une entreprise hippique=
+ : situer l=92entreprise artisanale de mar=E9chalerie au sein de la fili=
+=E8re cheval<br />
+=96 Ma=EEtriser les techniques =E9l=E9mentaires de mar=E9chalerie en res=
+pectant les r=E8gles de s=E9curit=E9 et le bien-=EAtre du cheval </td></=
+tr>
+										</table>
+									</td>
+								</tr></table>			=
+
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr><td colspan=3D"2">&nbsp;</td></tr>
+		<tr>
+				<td colspan=3D2>
+					<table cellpadding=3D'3' cellspacing=3D"0" border=3D"0">
+						<tr>
+							<td class=3D'entetegp'>&nbsp;Secteurs d'activit&eacute; ou types =
+d'emplois accessibles <br>par le d&eacute;tenteur de ce dipl&ocirc;me, c=
+e titre ou ce certificat&nbsp;</td>
+						</tr>
+					</table>
+				</td>	=
+
+		</tr>
+		<tr>
+			<td colspan=3D2>
+				<table border=3D1 bordercolor=3D'#113937' cellpadding=3D0 cellspacin=
+g=3D0 width=3D580>
+					<tr>
+						<td class=3D'textegp'>
+							<table border=3D0 bordercolor=3D'#113937' rules=3Dnone cellpaddin=
+g=3D5 cellspacing=3D0 width=3D580>
+								<tr>
+									<td class=3D'texte3gp' valign=3D"top">
+										<table cellpadding=3D5 cellspacing=3D0 border=3D0 width=3D100%=
+><tr><td class=3D'textegp'>* Secteur d'activit=E9 :<br />
+- Entreprises de mar=E9chalerie ;<br />
+- Exploitations d=92=E9levage ;<br />
+- Etablissements hippiques : centres =E9questres, =E9curies de courses, =
+services haras nationaux.<br><br>* Types d'emplois accessibles :<br />
+L=92ouvrier qualifi=E9 en Mar=E9chalerie est un professionnel du cheval =
+dans le domaine du pied. Il assiste le mar=E9chal-ferrant. Il peut =EAtr=
+e ind=E9pendant ou salari=E9 d=92une entreprise hippique ou de mar=E9cha=
+lerie.</td></tr></table>
+									</td>
+								</tr>
+								<tr>
+									<td>
+<span class=3D"texte3gp"><u>Codes des fiches ROME les plus proches</u> :=
+&nbsp; <a href=3D"http://www.anpe.fr/espacecandidat/romeligne/DetailRome=
+Partenaire.do?rome=3D47311" target=3D_blank>47311</a>    =
+
+
+									</span></td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr><td colspan=3D"2">&nbsp;</td></tr>
+		<tr>
+			<td colspan=3D2>
+				<table cellpadding=3D'3' cellspacing=3D"0" border=3D"0">
+					<tr>
+						<td class=3D'entetegp'>&nbsp;Modalit&eacute;s d'acc&egrave;s &agra=
+ve; cette certification&nbsp;</td>
+					</tr>
+				</table>
+			</td>	=
+
+		</tr>
+		=
+
+		<tr>
+			<td colspan=3D2>
+				<table border=3D1 bordercolor=3D'#113937' cellpadding=3D0 cellspacin=
+g=3D0 width=3D580>
+					<tr>
+						<td class=3D'textegp' colspan=3D4>
+							<table border=3D0 bordercolor=3D'#113937' rules=3Dnone cellpaddin=
+g=3D5 cellspacing=3D0 width=3D580>
+								<tr>
+									<td class=3D'texte3gp' valign=3D"top" colspan=3D"5"><span class=
+=3D"titresectiongp">Descriptif des composantes de la certification</span=
+> :</td>
+								</tr>
+								<tr>
+									<td colspan=3D"5">
+										<table border=3D0 cellpadding=3D0 cellspacing=3D0>
+											<tr>
+												<td class=3D'texte3gp' valign=3D"top" colspan=3D"5">Modules =
+communs<br />
+MC1 : Expression fran=E7aise et communication<br />
+MC2 : Traitement de donn=E9es math=E9matiques<br />
+MC3 : Education physique et sportive, sant=E9 et s=E9curit=E9<br />
+MC4 : Monde actuel<br />
+Modules professionnels<br />
+MP1 : Entreprise et vie professionnelle<br />
+MP2 : Bases scientifiques des techniques professionnelles<br />
+MP3 : Techniques et pratiques professionnelles<br />
+MAP : Module d'approfondissement professionnel</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+								<tr><td class=3D'texte3gp' valign=3D"top" colspan=3D"5">Validit&=
+eacute; des composantes acquises : 3 ans</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+					<tr>
+						<td class=3D'texte3gp' align=3D"center">Conditions d'inscription &=
+agrave; la certification</td>
+						<td class=3D'texte3gp' align=3D"center">&nbsp;Oui&nbsp;</td>
+						<td class=3D'texte3gp' align=3D"center">&nbsp;Non&nbsp;</td>
+						<td class=3D'texte3gp' align=3D"center">Composition des jurys</td>=
+
+					</tr>
+					<tr>
+						<td class=3D'texte3gp'><table border=3D'0' cellpadding=3D'5' cells=
+pacing=3D'0'><tr valign=3D'top'><td class=3D'textegp'>Apr&egrave;s un pa=
+rcours de formation sous statut d'&eacute;l&egrave;ve ou d'&eacute;tudia=
+nt</td></tr></table></td>
+						<td class=3D'texte3gp' align=3D"center">&nbsp;</td>
+						<td class=3D'texte3gp' align=3D"center">&nbsp;X</td>
+						<td class=3D'texte3gp'><table border=3D'0' cellpadding=3D'5' cells=
+pacing=3D'0'><tr valign=3D'top'><td class=3D'textegp'></td></tr></table>=
+</td>
+					</tr>
+					<tr>
+						<td class=3D'texte3gp'><table border=3D'0' cellpadding=3D'5' cells=
+pacing=3D'0'><tr valign=3D'top'><td class=3D'textegp'>En contrat d'appre=
+ntissage</td></tr></table></td>
+						<td class=3D'texte3gp' align=3D"center">&nbsp;X</td>
+						<td class=3D'texte3gp' align=3D"center">&nbsp;</td>
+						<td class=3D'texte3gp'><table border=3D'0' cellpadding=3D'5' cells=
+pacing=3D'0'><tr valign=3D'top'><td class=3D'textegp'>Le jury, pr=E9sid=E9=
+ par un fonctionnaire de cat=E9gorie A membre de l'enseignement agricole=
+ public, est compos=E9 :<br />
+=96 pour moiti=E9 au moins d'enseignants des =E9tablissements agricoles =
+publics ou priv=E9s justifiant des titres et dipl=F4mes requis pour ense=
+igner dans une section pr=E9parant au CAPA,<br />
+=96 pour moiti=E9 au maximum d'employeurs et de salari=E9s des professio=
+ns concern=E9es.</td></tr></table></td>
+					</tr>	=
+
+					<tr>
+						<td class=3D'texte3gp'><table border=3D'0' cellpadding=3D'5' cells=
+pacing=3D'0'><tr valign=3D'top'><td class=3D'textegp'>Apr&egrave;s un pa=
+rcours de formation continue</td></tr></table></td>
+						<td class=3D'texte3gp' align=3D"center">&nbsp;X</td>
+						<td class=3D'texte3gp' align=3D"center">&nbsp;</td>
+						<td class=3D'texte3gp'><table border=3D'0' cellpadding=3D'5' cells=
+pacing=3D'0'><tr valign=3D'top'><td class=3D'textegp'>Le jury, pr=E9sid=E9=
+ par un fonctionnaire de cat=E9gorie A membre de l'enseignement agricole=
+ public, est compos=E9 :<br />
+=96 pour moiti=E9 au moins d'enseignants des =E9tablissements agricoles =
+publics ou priv=E9s justifiant des titres et dipl=F4mes requis pour ense=
+igner dans une section pr=E9parant au CAPA,<br />
+=96 pour moiti=E9 au maximum d'employeurs et de salari=E9s des professio=
+ns concern=E9es.</td></tr></table></td>
+					</tr>
+					<tr>
+						<td class=3D'texte3gp'><table border=3D'0' cellpadding=3D'5' cells=
+pacing=3D'0'><tr valign=3D'top'><td class=3D'textegp'>En contrat de prof=
+essionnalisation</td></tr></table></td>
+						<td class=3D'texte3gp' align=3D"center">&nbsp;X</td>
+						<td class=3D'texte3gp' align=3D"center">&nbsp;</td>
+						<td class=3D'texte3gp'><table border=3D'0' cellpadding=3D'5' cells=
+pacing=3D'0'><tr valign=3D'top'><td class=3D'textegp'>Le jury, pr=E9sid=E9=
+ par un fonctionnaire de cat=E9gorie A membre de l'enseignement agricole=
+ public, est compos=E9 :<br />
+=96 pour moiti=E9 au moins d'enseignants des =E9tablissements agricoles =
+publics ou priv=E9s justifiant des titres et dipl=F4mes requis pour ense=
+igner dans une section pr=E9parant au CAPA,<br />
+=96 pour moiti=E9 au maximum d'employeurs et de salari=E9s des professio=
+ns concern=E9es.</td></tr></table></td>
+					</tr>
+						<tr>
+						<td class=3D'texte3gp'><table border=3D'0' cellpadding=3D'5' cells=
+pacing=3D'0'><tr valign=3D'top'><td class=3D'textegp'>Par candidature in=
+dividuelle</td></tr></table></td>
+						<td class=3D'texte3gp' align=3D"center">&nbsp;</td>
+						<td class=3D'texte3gp' align=3D"center">&nbsp;X</td>
+						<td class=3D'texte3gp'><table border=3D'0' cellpadding=3D'5' cells=
+pacing=3D'0'><tr valign=3D'top'><td class=3D'textegp'></td></tr></table>=
+</td>
+					</tr>
+					<tr>
+						<td class=3D'texte3gp'><table border=3D'0' cellpadding=3D'5' cells=
+pacing=3D'0'><tr valign=3D'top'><td class=3D'textegp'>Par exp&eacute;rie=
+nce</td></tr></table></td>
+						<td class=3D'texte3gp' align=3D"center">&nbsp;X</td>
+						<td class=3D'texte3gp' align=3D"center">&nbsp;</td>
+						<td class=3D'texte3gp'><table border=3D'0' cellpadding=3D'5' cells=
+pacing=3D'0'><tr valign=3D'top'><td class=3D'textegp'>Le jury, pr=E9sid=E9=
+ par un fonctionnaire de cat=E9gorie A membre de l'enseignement agricole=
+ public, est compos=E9 :<br />
+=96 pour moiti=E9 au moins d'enseignants des =E9tablissements agricoles =
+publics ou priv=E9s justifiant des titres et dipl=F4mes requis pour ense=
+igner dans une section pr=E9parant au CAPA,<br />
+=96 pour moiti=E9 au maximum d'employeurs et de salari=E9s des professio=
+ns concern=E9es.</td></tr></table></td>
+					</tr>	=
+
+				</table>
+			</td>
+		</tr>
+		<tr><td>&nbsp;</td></tr>
+		<tr>
+			<td colspan=3D2 width=3D"580">
+				<table cellpadding=3D'3' cellspacing=3D"0" border=3D"0" width=3D"580=
+">
+					<tr>
+						<td class=3D'entetegp' width=3D290>&nbsp;Liens avec d'autres certi=
+fications&nbsp;</td>
+						<td class=3D'entetegp' width=3D290>&nbsp;Accords europ&eacute;ens =
+ou internationaux&nbsp;</td>
+					</tr>
+				</table>
+			</td>	=
+
+		</tr>
+		<tr>
+			<td colspan=3D2>
+				<table border=3D1 bordercolor=3D'#113937' cellpadding=3D0 cellspacin=
+g=3D0 width=3D"580">
+					<tr>
+						<td class=3D'texte3gp' valign=3D"top" width=3D290><table border=3D=
+'0' cellpadding=3D'5' cellspacing=3D'0'><tr valign=3D'top'><td class=3D'=
+textegp'>&nbsp;</td></tr></table></td>
+						<td class=3D'texte3gp' valign=3D"top" width=3D290 ><table border=3D=
+'0' cellpadding=3D'5' cellspacing=3D'0'><tr valign=3D'top'><td class=3D'=
+textegp'></td></tr></table></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr><td colspan=3D"2">&nbsp;</td></tr>
+		<tr>
+			<td colspan=3D2 width=3D"580">
+				<table cellpadding=3D'3' cellspacing=3D"0" border=3D"0">
+					<tr>
+						<td class=3D'entetegp'>&nbsp;Base l&eacute;gale&nbsp;</td>
+					</tr>
+				</table>
+			</td>	=
+
+		</tr>
+		<tr>
+			<td colspan=3D2>
+				<table border=3D1 bordercolor=3D'#113937' cellpadding=3D0 cellspacin=
+g=3D0 width=3D"580">
+					<tr>
+						<td class=3D'texte3gp' valign=3D"top" width=3D580><table border=3D=
+'0' cellpadding=3D'5' cellspacing=3D'0'><tr valign=3D'top'><td class=3D'=
+textegp'><span class=3D"titresectiongp">R&eacute;f&eacute;rence du d&eac=
+ute;cret g&eacute;n&eacute;ral</span> :<br>D=E9cret n=B0 95-464 du 26 av=
+ril 1995 portant r=E8glement g=E9n=E9ral du certificat d'aptitude profes=
+sionnelle agricole<br><br><span class=3D"titresectiongp">R&eacute;f&eacu=
+te;rence arr&ecirc;t&eacute; cr&eacute;ation (ou date 1er arr&ecirc;t&ea=
+cute; enregistrement)</span> :<br>Arr=EAt=E9 du 16 juillet 1998 portant =
+cr=E9ation et fixant les modalit=E9s de d=E9livrance du certificat d=92a=
+ptitude professionnelle agricole, option Mar=E9chalerie (JO du 23 juille=
+t 1998)<br><br><span class=3D"titresectiongp">R&eacute;f&eacute;rence du=
+ d&eacute;cret et/ou arr&ecirc;t&eacute; VAE</span> :<br>D=E9cret n=B0 2=
+003-1160 du 4 d=E9cembre 2003 modifiant la partie r=E9glementaire du liv=
+re VIII du code rural et relatif aux dipl=F4mes technologiques et profes=
+sionnels d=E9livr=E9s par le ministre charg=E9 de l'agriculture (JO du 6=
+ d=E9cembre 2003)<br><br></td></tr></table>&nbsp;</td>
+					</tr>	=
+
+				</table>
+			</td>
+		</tr>
+		<tr><td colspan=3D"2">&nbsp;</td></tr>
+		<tr>
+			<td colspan=3D2 width=3D"580">
+				<table cellpadding=3D'3' cellspacing=3D"0" border=3D"0">
+					<tr>
+						<td class=3D'entetegp'>&nbsp;Pour plus d'informations&nbsp;</td>
+					</tr>
+				</table>
+			</td>	=
+
+		</tr>
+		<tr>
+			<td colspan=3D2 width=3D"580">
+				<table border=3D1 bordercolor=3D'#113937' cellpadding=3D5 cellspacin=
+g=3D0 width=3D"580">
+					<tr>
+						<td class=3D'texte3gp' valign=3D"top"  width=3D"580">
+							<span  class=3D"titresectiongp">Statistiques</span> :<br>
+							=
+
+							<br><span class=3D"titresectiongp">Autres sources d'information</=
+span> :<br>
+							Site Internet de la communaut=E9 =E9ducative de l'enseignement ag=
+ricole public fran=E7ais : educagri.fr<br>- <a href=3D"http://www.educag=
+ri.fr" target=3D_blank>http://www.educagri.fr</a>
+						</td>
+					</tr>	=
+
+				</table>
+			</td>
+		</tr>
+	</table>
+</form>
+</div></body></html>
+------------tHbT8qkXn9TmYUGlJyCl6h--
